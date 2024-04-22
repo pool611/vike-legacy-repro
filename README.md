@@ -7,7 +7,7 @@ a minimal example for vike+@vitejs/plugin-legacy
 I choose react-ts template for example, whatever you want.
 
 ```bash
-pnpm create vite
+pnpm create vike
 ```
 
 ### step 2
